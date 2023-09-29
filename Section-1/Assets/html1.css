@@ -24,7 +24,7 @@ h2 {
 body {
     display: flex;
     flex-direction: row;
-    height: 100vh;
+    height: 90vh;
 }
 .signin {
     display: flex;
@@ -36,6 +36,7 @@ body {
     height: 50px;
     color: white;
     width: 100%;
+    border: none;
    
 }
 .signingoogle {
